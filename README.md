@@ -11,6 +11,14 @@ Här ligger den **vanliga** texten nu kommer det en lista:
 * I
 
 ```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
+<header>
+        <h1>Min hemsida</h1>
+        <h2>Malin</h2>
+        <nav>
+        <a class="active" href="index.html">Startsida</a>
+        <a href="about.html">Om mig</a>
+        <a href="hobbys.html">Mina hobbys</a>
+        <a href="contact.html">Kontakt</a><br>
+        </nav>
+    </header>
 ```
